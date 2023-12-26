@@ -1,6 +1,6 @@
 # Banker - Robbery Game
 I developed a PC game that simulates a bank robbery using C# on Unity.
-While making this project, I implemented C# scripts such as
+While making this project, I implemented C# scripts such as:
 - Character's motion
 - Weapon loading
 - Bank queue
@@ -21,4 +21,8 @@ While making this project, I implemented C# scripts such as
 ![map_2](https://github.com/edent11/Banker/assets/100879888/cbd9ecad-72cd-46de-b76e-6951453b0705)
 
 # Gameplay videos:
+
+Due to the file's size, attached Google Drive link: https://drive.google.com/drive/u/1/folders/1ugsfOhcMIxKuN7nqQ4jRzDrSsWgroySw
+
+
 

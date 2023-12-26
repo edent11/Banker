@@ -1,8 +1,11 @@
 # Banker
-# Bank robbery game
+Bank robbery game
 I developed a game that simulates a bank robbery on Unity.
-While making this project, I implemented C# scripts such as character's motion, weapon loading, bank queue, bullet shots, and more. Game-mode videos and screenshots are attached below:
-https://drive.google.com/drive/u/1/folders/1ugsfOhcMIxKuN7nqQ4jRzDrSsWgroySw
+While making this project, I implemented C# scripts such as
+-Character's motion
+-Weapon loading
+-Bank queue
+-Bullet shots
 
 Menu:
 ![menu](https://github.com/edent11/Banker/assets/100879888/641196cd-5380-432b-80dc-48dfd717ddc8)

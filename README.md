@@ -20,8 +20,7 @@ While making this project, I implemented C# scripts such as:
 **Map:**
 ![map_2](https://github.com/edent11/Banker/assets/100879888/cbd9ecad-72cd-46de-b76e-6951453b0705)
 
-# Gameplay videos:
-
+# Gameplay Videos:
 Due to the file's size, attached Google Drive link: https://drive.google.com/drive/u/1/folders/1ugsfOhcMIxKuN7nqQ4jRzDrSsWgroySw
 
 
